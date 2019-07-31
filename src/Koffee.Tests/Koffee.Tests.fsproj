@@ -7,7 +7,6 @@
   <ItemGroup>
     <Content Include="App.config" />
     <Content Include="paket.references" />
-    <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Testing.fs" />
     <Compile Include="RectTests.fs" />
     <Compile Include="ValueConverterTests.fs" />
